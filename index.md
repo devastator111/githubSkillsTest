@@ -1,7 +1,4 @@
 ---
 title: Test Site
 ---
-
-# hello
-# words
-### foo
+Text goes here
